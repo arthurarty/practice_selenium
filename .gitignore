@@ -1,1 +1,8 @@
+# Virtual envs
 .venv
+
+# chrome web driver
+chrome-driver.app
+
+# Mac specific
+.DS_Store
